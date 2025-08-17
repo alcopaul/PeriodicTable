@@ -1,8 +1,13 @@
 /*
- * 1.) Form size:  746, 411
- * 2.) Button size: 60, 54
- * 3.) Button location: 658, 303
- */ 
+ * form size = 982, 492
+ * button size = 67, 63
+ * button location = 884, 372
+ *
+ * FixedToolWindow
+ * 
+ * alCoPaUL, beth GviLLErMo [GIMO]
+ * 8/16/2025
+ */
 
 using System;
 using System.Collections.Generic;
